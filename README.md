@@ -10,4 +10,6 @@ Links und Verweise werden unter Umständen nicht funktionieren!
 Originaldateien:   
 https://github.com/th-koeln/wba1-2015/wiki/Performance-Ausarbeitung_FuchshoferKollig_Deckblatt   
 https://github.com/th-koeln/wba1-2015/wiki/Performance-Ausarbeitung_FuchshoferKollig_QuizLoesung   
-https://github.com/th-koeln/wba1-2015/wiki/Performance-Ausarbeitung_FuchshoferKollig   
+https://github.com/th-koeln/wba1-2015/wiki/Performance-Ausarbeitung_FuchshoferKollig      
+
+Erreichte Note: 1.0
