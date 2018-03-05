@@ -4,7 +4,8 @@ In der folgenden Dokumentation möchten wir das Thema "Performance" im Bezug auf
 
 
 ### Achtung
-Das ist eine Kopie der Dateien aus dem Original Repository der TH-Köln Campus Gummersbach!   
+Das ist eine Kopie der Dateien aus dem Original Repository der TH-Köln Campus Gummersbach! 
+Links und Verweise werden unter Umständen nicht funktionieren!   
 
 Originaldateien:   
 https://github.com/th-koeln/wba1-2015/wiki/Performance-Ausarbeitung_FuchshoferKollig_Deckblatt   
